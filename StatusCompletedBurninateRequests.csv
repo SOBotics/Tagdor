@@ -165,7 +165,7 @@ post_id,tagname
 276161,[android-game]
 285938,[linux-wheezy]
 295950,[jumping]
-296184,"[outsourcing, technology-stack, market-share, ..."
+296184,"[outsourcing, technology-stack, market-share]"
 300777,[c-like]
 320706,[nax]
 253158,[closing]
@@ -188,7 +188,7 @@ post_id,tagname
 252132,[underlying]
 268253,[c++primer]
 269052,[java-libraries]
-285879,"[google-cloud-datastore, gae-datastore, google..."
+285879,"[google-cloud-datastore, gae-datastore, google]"
 268373,[deallocate]
 274305,[cancel]
 276829,[reveal]
