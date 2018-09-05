@@ -23,7 +23,7 @@ post_id,tagname
 262509,[information-display]
 266622,[xcode6-beta4]
 294600,[qlikview.next]
-298673,[readonly]
+298673,"[readonlycollection, readonlyattribute, isreadonly, ireadonlydictionary, facebook-read-only-api, readonlydictionary]"
 304018,[fdisk]
 308490,[python35]
 322982,"[facebook-relay, relayjs]"
